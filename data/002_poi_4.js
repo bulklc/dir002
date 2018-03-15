@@ -4,7 +4,7 @@ var json_002_poi_4 = {
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "desc": "Provost and Pritchard", "type": "Professional" }, "geometry": { "type": "Point", "coordinates": [ -119.796502625979386, 36.848207118832626 ] } },
-{ "type": "Feature", "properties": { "desc": "Trader Joe's", "type": "Grocery Store" }, "geometry": { "type": "Point", "coordinates": [ -119.796502625979386, 36.848207118832626 ] } },
+{ "type": "Feature", "properties": { "desc": "Provost and Pritchard", "type": "Professional" }, "geometry": { "type": "Point", "coordinates": [ -119.796502625979386, 36.848207118832626 ] } },
 { "type": "Feature", "properties": { "desc": "Whole Foods", "type": "Grocery Store" }, "geometry": { "type": "Point", "coordinates": [ -119.805735, 36.809291 ] } },
 { "type": "Feature", "properties": { "desc": "Allegro Coffee", "type": "Leisure" }, "geometry": { "type": "Point", "coordinates": [ -119.805116, 36.808533 ] } },
 { "type": "Feature", "properties": { "desc": "Amtrak Station", "type": "Transportation" }, "geometry": { "type": "Point", "coordinates": [ -119.781683241343046, 36.737784198379529 ] } },
